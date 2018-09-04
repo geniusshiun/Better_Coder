@@ -7,7 +7,7 @@ This repo recode the history of learning about my coding, tool using, project ma
 Comment on all classes, functions. Let designers know what these code doing for, no need to read in codes.
 * [reference](https://iapyeh.readthedocs.io/en/latest/blogs/technical/docs_style_review_twisted.html) - Some useful suggestions
 
-## Version Control - Github
+## Version Control - GitHub
 
 Learn how to use branch.
 
